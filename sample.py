@@ -14,3 +14,4 @@ if __name__ == '__main__':
     obj = class()
     print(obj.squre(x))
     print(obj.add(x))
+    print(' ばか')
