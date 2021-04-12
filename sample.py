@@ -12,4 +12,5 @@ class  math_many:
 if __name__ == '__main__':
     v = [1,5,7,9,4]
     obj = class()
-    print(obj.squre(x)) 
+    print(obj.squre(x))
+    print(obj.add(x))
